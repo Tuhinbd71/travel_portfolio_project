@@ -3,6 +3,14 @@ body {
     padding: 15px;
 }
 
+#orange_color {
+    color: rgb(27, 209, 42);
+}
+
+.hading_color {
+    color: rgb(221, 32, 121);
+}
+
 h3 {
     margin-left: 35px;
 }
