@@ -1,9 +1,10 @@
-h3 {
-    margin-left: 35px;
-}
-
 body {
     font-family: 'Poppins', sans-serif;
+    padding: 15px;
+}
+
+h3 {
+    margin-left: 35px;
 }
 
 .img_resize {
