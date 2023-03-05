@@ -5,3 +5,7 @@ h3 {
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+.img_resize {
+    width: 100%;
+}
